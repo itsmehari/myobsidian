@@ -14,7 +14,14 @@
       "vault_name": "Admin's Obsidian Vault",
       "file_naming_convention": "[Topic]-[Type]-YYYY-MM-DD.md",
       "preferred_editor": "Obsidian",
-      "markdown_flavor": "Obsidian Markdown"
+      "markdown_flavor": "Obsidian Markdown",
+      "git_repository": {
+        "remote_url": "https://github.com/itsmehari/myobsidian.git",
+        "branch": "master",
+        "auto_sync": true,
+        "sync_script": "sync-vault.ps1",
+        "quick_sync": "sync.bat"
+      }
     },
     "ai_capabilities": {
       "file_operations": {
