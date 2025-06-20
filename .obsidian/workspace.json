@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSERI/BSERI_Paramount_Updated_Task_Tracker.md",
+                "file": "BSERI-Blog-System-Analysis-2025-06-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BSERI_Paramount_Updated_Task_Tracker"
+              "title": "BSERI-Blog-System-Analysis-2025-06-20"
             }
           }
         ]
@@ -165,8 +165,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95ca3de739b7a42a",
+  "active": "e39dd06bf086aaee",
   "lastOpenFiles": [
+    "ai-config.json",
+    "AI-Obsidian-Integration-Guide.md",
+    "Prompt Engineering/Regular Use Prompts/Analyze Codebase.md",
+    "BSERI-Blog-System-Analysis-2025-06-20.md",
+    "BSERI/BSERI_Paramount_Updated_Task_Tracker.md",
+    "Prompt Engineering/Regular Use Prompts",
     "My AI Usage/June Month.md",
     "Random Projects/BIPLE 3D replica.md",
     "Random Projects",
@@ -178,12 +184,10 @@
     "Prompt Engineering/Wrap/php_mysql_html_css_developer_prompts/README.md",
     "Prompt Engineering/Wrap/php_mysql_html_css_developer_prompts",
     "Prompt Engineering/Wrap/designer_warp_prompts",
-    "BSERI/BSERI_Paramount_Updated_Task_Tracker.md",
     "Prompt Engineering/Wrap/warp_ai_prompt_library.json",
     "Prompt Engineering/Wrap",
     "Prompt Engineering/New folder",
     "Prompt Engineering",
-    "New folder",
     "BSERI/Pendings/Pending Stuffs.md",
     "Thiruvengadam Nagar Home/Revamping Checklist/Untitled.md",
     "PROJECT_ANALYSIS_REPORT.md",
@@ -199,13 +203,9 @@
     "MY OMR/Articles/Article Aggregator Plans.md",
     "Daily Logs/June/12-06-2025.md",
     "MY OMR/Articles/12-06-2025.md",
-    "MY OMR/Articles/Radial-Road-Article.md",
     "Untitled.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "BSERI - MASTER.md",
-    "Vault.md",
-    "MY OMR/Articles/omr-september-news-lists.md"
+    "Untitled 1.canvas"
   ]
 }
