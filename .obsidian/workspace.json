@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSERI/BSERI Master Sheet.md",
+                "file": "Obsidian Learning/Auto-Sync Prevention Strategies/Automatic Backup Plus Delayed Sync.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BSERI Master Sheet"
-            }
-          },
-          {
-            "id": "16364a78e97d02c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI-Obsidian-Integration-Guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI-Obsidian-Integration-Guide"
+              "title": "Automatic Backup Plus Delayed Sync"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,44 +165,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16364a78e97d02c4",
+  "active": "95ca3de739b7a42a",
   "lastOpenFiles": [
-    "Quick-Reference-Guide.md",
-    "Sync-Scripts-Documentation.md",
-    "Data-Loss-Prevention-Guide.md",
-    "AI-Obsidian-Setup.md",
-    "AI-Obsidian-Integration-Guide.md",
-    "AI-Integration-Capabilities.md",
+    "Obsidian Learning/Auto-Sync Prevention Strategies/PROJECT-STATUS-TRACKER.md",
+    "Obsidian Learning/Auto-Sync Prevention Strategies/Event-Driven Auto-Sync.md",
+    "Obsidian Learning/Auto-Sync Prevention Strategies/Automatic Backup Plus Delayed Sync.md",
+    "BSERI/Blog Management System/BSERI-Blog-System-Analysis-2025-06-20.md",
+    "BSERI/BSERI Master Sheet.md",
+    "Obsidian Learning/Auto-Sync Prevention Strategies/Smart Change Detection.md",
+    "Obsidian Learning/Auto-Sync Prevention Strategies/Time-Based Auto-Sync.md",
+    "Obsidian Learning/Auto-Sync Prevention Strategies/Visual Reminder System.md",
+    "Obsidian Learning/Auto-Sync Prevention Strategies/Auto-Sync Prevention Strategies Index.md",
+    "Obsidian Learning/Starter Video References.md",
+    "Obsidian Learning/Auto-Sync Prevention Strategies/Auto-Sync Strategy Comparison.md",
+    "Obsidian Learning/Auto-Sync Prevention Strategies",
+    "Obsidian Learning/Obsidian File Syncing/AI-Integration-Capabilities.md",
+    "Obsidian Learning/Obsidian File Syncing/AI-Obsidian-Integration-Guide.md",
+    "Obsidian Learning/Obsidian File Syncing",
+    "Obsidian Learning/Obsidian File Syncing/Quick-Reference-Guide.md",
+    "Obsidian Learning/Untitled.md",
+    "Random Projects/BIPLE 3D replica.md",
+    "Obsidian Learning",
+    "GitHub/Important Repositories to go through.md",
+    "GitHub",
+    "Obsidian Learning/Obsidian File Syncing/Sync-Scripts-Documentation.md",
+    "Obsidian Learning/Obsidian File Syncing/Data-Loss-Prevention-Guide.md",
+    "Obsidian Learning/Obsidian File Syncing/AI-Obsidian-Setup.md",
     "Thiruvengadam Nagar Home/Revamping Checklist/Untitled.md",
     "BSERI/Meetings/June 20th - Govind Sir's House.md",
     "BSERI/Meetings/June Month Bseri Meetings.md",
     "BSERI/Meetings/BSERI MEETINGS.md",
-    "BSERI/BSERI Master Sheet.md",
-    "BSERI/Blog Management System/BSERI-Blog-System-Analysis-2025-06-20.md",
     "BSERI/Blog Management System",
     "BSERI/BSERI_Paramount_Updated_Task_Tracker.md",
     "BSERI.md",
-    "Prompt Engineering/Regular Use Prompts/Analyze Codebase.md",
-    "Random Projects/BIPLE 3D replica.md",
-    "Clippings/Startup Fundraising in India - Checklist, Documents and Types.md",
-    "Daily Logs/June/12-06-2025.md",
     "sync-log.txt",
     "sync.bat",
     "sync-vault.ps1",
     "ai-config.json",
     "Prompt Engineering/Regular Use Prompts",
-    "My AI Usage/June Month.md",
-    "Random Projects",
-    "Prompt Engineering/Wrap/designer_warp_prompts/README.md",
-    "My AI Usage",
-    "Prompt Engineering/Wrap/warp_ai_prompt_library.md",
-    "Prompt Engineering/Wrap/windows_file_management_prompts/README.md",
-    "Prompt Engineering/Wrap/windows_file_management_prompts",
-    "Prompt Engineering/Wrap/php_mysql_html_css_developer_prompts/README.md",
-    "Prompt Engineering/Wrap/php_mysql_html_css_developer_prompts",
-    "BSERI/Pendings/Pending Stuffs.md",
-    "PROJECT_ANALYSIS_REPORT.md",
-    "BSERI/Meetings/June 14th.md",
     "Untitled.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
