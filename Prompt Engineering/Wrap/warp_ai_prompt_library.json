@@ -1,0 +1,43 @@
+{
+    "Developer Essentials": [
+        {
+            "intent": "Setup a Git repo and push code to GitHub",
+            "command": [
+                "git init",
+                "git remote add origin https://github.com/username/repo.git",
+                "git add .",
+                "git commit -m 'Initial commit'",
+                "git push -u origin master"
+            ],
+            "explanation": "Initializes a local Git repo, links to remote, commits files, and pushes to GitHub."
+        },
+        {
+            "intent": "Install Node.js on Ubuntu",
+            "command": [
+                "sudo apt update",
+                "sudo apt install nodejs",
+                "sudo apt install npm"
+            ],
+            "explanation": "Updates apt repo and installs Node.js and npm."
+        }
+    ],
+    "Debugging Templates": [
+        {
+            "intent": "Fix permission denied error in shell",
+            "command": [
+                "chmod +x script.sh"
+            ],
+            "explanation": "Makes the script executable by adding execute permissions."
+        }
+    ],
+    "Security & Permissions": [
+        {
+            "intent": "Find and kill process running on port 3000",
+            "command": [
+                "lsof -i :3000",
+                "kill -9 <PID>"
+            ],
+            "explanation": "Lists process using port 3000 and kills it using its PID."
+        }
+    ]
+}
