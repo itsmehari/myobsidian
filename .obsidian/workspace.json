@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSERI/Meetings/BSERI MEETINGS.md",
+                "file": "AI-Obsidian-Integration-Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BSERI MEETINGS"
-            }
-          },
-          {
-            "id": "0635db478995bb80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thiruvengadam Nagar Home/Revamping Checklist/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "AI-Obsidian-Integration-Guide"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,14 +180,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e39dd06bf086aaee",
+  "active": "16364a78e97d02c4",
   "lastOpenFiles": [
-    "AI-Obsidian-Integration-Guide.md",
-    "AI-Obsidian-Setup.md",
-    "Data-Loss-Prevention-Guide.md",
-    "AI-Integration-Capabilities.md",
     "Quick-Reference-Guide.md",
     "Sync-Scripts-Documentation.md",
+    "Data-Loss-Prevention-Guide.md",
+    "AI-Obsidian-Setup.md",
+    "AI-Obsidian-Integration-Guide.md",
+    "AI-Integration-Capabilities.md",
+    "Thiruvengadam Nagar Home/Revamping Checklist/Untitled.md",
     "BSERI/Meetings/June 20th - Govind Sir's House.md",
     "BSERI/Meetings/June Month Bseri Meetings.md",
     "BSERI/Meetings/BSERI MEETINGS.md",
@@ -229,7 +216,6 @@
     "Prompt Engineering/Wrap/php_mysql_html_css_developer_prompts/README.md",
     "Prompt Engineering/Wrap/php_mysql_html_css_developer_prompts",
     "BSERI/Pendings/Pending Stuffs.md",
-    "Thiruvengadam Nagar Home/Revamping Checklist/Untitled.md",
     "PROJECT_ANALYSIS_REPORT.md",
     "BSERI/Meetings/June 14th.md",
     "Untitled.canvas",
