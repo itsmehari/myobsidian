@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-Obsidian-Integration-Guide.md",
+                "file": "BSERI/BSERI Master Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI-Obsidian-Integration-Guide"
+              "title": "BSERI Master Sheet"
+            }
+          },
+          {
+            "id": "16364a78e97d02c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSERI/Meetings/BSERI MEETINGS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BSERI MEETINGS"
+            }
+          },
+          {
+            "id": "0635db478995bb80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thiruvengadam Nagar Home/Revamping Checklist/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,17 +196,30 @@
   },
   "active": "e39dd06bf086aaee",
   "lastOpenFiles": [
+    "AI-Obsidian-Integration-Guide.md",
+    "AI-Obsidian-Setup.md",
+    "Data-Loss-Prevention-Guide.md",
+    "AI-Integration-Capabilities.md",
+    "Quick-Reference-Guide.md",
+    "Sync-Scripts-Documentation.md",
+    "BSERI/Meetings/June 20th - Govind Sir's House.md",
+    "BSERI/Meetings/June Month Bseri Meetings.md",
+    "BSERI/Meetings/BSERI MEETINGS.md",
+    "BSERI/BSERI Master Sheet.md",
+    "BSERI/Blog Management System/BSERI-Blog-System-Analysis-2025-06-20.md",
+    "BSERI/Blog Management System",
+    "BSERI/BSERI_Paramount_Updated_Task_Tracker.md",
+    "BSERI.md",
+    "Prompt Engineering/Regular Use Prompts/Analyze Codebase.md",
+    "Random Projects/BIPLE 3D replica.md",
+    "Clippings/Startup Fundraising in India - Checklist, Documents and Types.md",
+    "Daily Logs/June/12-06-2025.md",
     "sync-log.txt",
     "sync.bat",
-    "BSERI-Blog-System-Analysis-2025-06-20.md",
-    "AI-Obsidian-Integration-Guide.md",
     "sync-vault.ps1",
     "ai-config.json",
-    "Prompt Engineering/Regular Use Prompts/Analyze Codebase.md",
-    "BSERI/BSERI_Paramount_Updated_Task_Tracker.md",
     "Prompt Engineering/Regular Use Prompts",
     "My AI Usage/June Month.md",
-    "Random Projects/BIPLE 3D replica.md",
     "Random Projects",
     "Prompt Engineering/Wrap/designer_warp_prompts/README.md",
     "My AI Usage",
@@ -186,23 +228,10 @@
     "Prompt Engineering/Wrap/windows_file_management_prompts",
     "Prompt Engineering/Wrap/php_mysql_html_css_developer_prompts/README.md",
     "Prompt Engineering/Wrap/php_mysql_html_css_developer_prompts",
-    "Prompt Engineering/Wrap/designer_warp_prompts",
-    "Prompt Engineering/Wrap/warp_ai_prompt_library.json",
     "BSERI/Pendings/Pending Stuffs.md",
     "Thiruvengadam Nagar Home/Revamping Checklist/Untitled.md",
     "PROJECT_ANALYSIS_REPORT.md",
-    "Clippings/Startup Fundraising in India - Checklist, Documents and Types.md",
-    "BSERI/BSERI Master Sheet.md",
-    "BSERI/Meetings/BSERI MEETINGS.md",
     "BSERI/Meetings/June 14th.md",
-    "BSERI/Meetings/June Month Bseri Meetings.md",
-    "MY OMR/Articles/interlinking-ideas-for-Radial-Road-Article.md",
-    "MY OMR/Articles/projects.md",
-    "MY OMR/Articles/My Omr - Action plan.md",
-    "MY OMR/Articles/mushroon-article.md",
-    "MY OMR/Articles/Article Aggregator Plans.md",
-    "Daily Logs/June/12-06-2025.md",
-    "MY OMR/Articles/12-06-2025.md",
     "Untitled.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",

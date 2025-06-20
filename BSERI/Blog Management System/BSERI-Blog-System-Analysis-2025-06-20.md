@@ -1,4 +1,4 @@
-# BSERI Blog Management System - Technical Analysis
+# BSERI Blog Management System - Technical Analysis [[BSERI Master Sheet]]
 **Date**: June 20, 2025  
 **Analyst**: AI Agent Mode  
 **Codebase Path**: `C:\Users\Admin\OneDrive\BSERI\05_Website & Tech\Blog System`
